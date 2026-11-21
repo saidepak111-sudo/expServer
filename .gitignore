@@ -1,0 +1,14 @@
+# Compiled binaries and build artifacts
+xps
+tcp_client
+tcp_server
+tcp_proxy
+udp_client
+udp_server
+*.o
+
+# Archives
+*.zip
+
+# Local IDE config at repo root
+/.idea/
